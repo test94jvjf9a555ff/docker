@@ -13,12 +13,12 @@
     "term": "xterm-color"
   },
   "useminified": false,
-  "header": {
+  "header": null,
     "text": null,
     "background": "green"
   },
   "session": {
-    "name": "WebSSH2",
+    "name": "Cloud Torrent Malaysia",
     "secret": "mysecret"
   },
   "options": {
